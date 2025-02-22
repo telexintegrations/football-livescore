@@ -83,7 +83,7 @@ public class FootballUpdateController {
         data.put("integration_type", integrationType);
         data.put("integration_category",integration_category);
         data.put("is_active", isActive);
-        data.put("Key_features", keyFeatures);
+        data.put("key_features", keyFeatures);
         data.put("author", author);
 
         // settings for time interval and event type
